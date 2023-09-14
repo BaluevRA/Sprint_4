@@ -1,3 +1,5 @@
+package org.pratikum.pages;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
